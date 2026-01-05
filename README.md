@@ -26,13 +26,13 @@
 - ✅ 开源技术生态整合
 
 ### 技术栈
-| 领域       | 核心技术                                                                 |
+| 领域       | 核心技术                                                                  |
 |------------|--------------------------------------------------------------------------|
-| 前端       | HTML5/CSS3/JavaScript、React、Vue、TailwindCSS、TypeScript               |
-| 后端       | Java、Python、Go、Node.js、Spring Boot、Django、微服务架构               |
-| 移动端     | 小程序、React Native、Flutter                                            |
-| 数据库     | MySQL、MongoDB、Redis、PostgreSQL                                        |
-| 部署/运维  | Docker、K8s、CI/CD、Nginx、云服务（阿里云/腾讯云/AWS）                   |
+| 前端       | HTML5/CSS3/JavaScript、React、TailwindCSS                                 |
+| 后端       | Java、Python、Go、Node.js、Spring Boot、flask、Django、微服务架构           |
+| 移动端     | 小程序、React、Flutter                                                     |
+| 数据库     | MySQL、MongoDB、Redis                                                     |
+| 部署/运维  | Docker、K8s、CI/CD、Nginx、云服务（阿里云）                                 |
 
 ## 📁 仓库说明
 本组织下的仓库包含工作室的：
