@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.gvsds.com/assets/hlogos/logo.jpg" width="40" alt="GVSDS Logo">
+  <img src="https://www.gvsds.com/assets/hlogos/logo.jpg" width="150" alt="GVSDS Logo">
   <br>
   银河万通软件开发工作室
   <br>
